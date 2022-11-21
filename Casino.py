@@ -46,3 +46,4 @@ def game():
         print('Пишите только числа!')
     except Exception:
         print('Что-то пошло не так')
+#Hello 22 Nov
